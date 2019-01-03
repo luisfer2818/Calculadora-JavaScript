@@ -298,7 +298,7 @@ class CalcController {
     // Mensagem de Erro
     setError(){
 
-        this.displayCalc = "Error 404";
+        this.displayCalc = "Error";
     }
 
     addDot(){
